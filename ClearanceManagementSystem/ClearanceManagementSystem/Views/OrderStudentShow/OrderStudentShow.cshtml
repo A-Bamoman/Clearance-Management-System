@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "OrderStudentShow";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <h2 style="color:red;text-align:center">@ViewBag.Message</h2>
+}
+
+<body>
+
+    <!-- form section start -->
+    <section class="w3l-hotair-form">
+        <h1>عرض حالة طلب الاخلاء</h1>
+        <div class="container">
+            <!-- /form -->
+            <div class="workinghny-form-grid">
+                <div class="main-hotair">
+                    <div class="content-wthree">
+                        <h2>بيانات الطالب</h2>
+                        <form action="Verify" method="post">
+                            <input type="number" class="password" name="id" placeholder="رقم القيد" required="" autofocus>
+                            <button class="btn" type="submit">عرض</button>
+                          
+                        </form>
+                    </div>
+                    <div class="w3l_form align-self">
+                        <div class="left_grid_info">
+                            <img src="~/images/2.jpg" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- //form -->
+        </div>
+    </section>
+    <!-- //form section start -->
+   
+</body>
+

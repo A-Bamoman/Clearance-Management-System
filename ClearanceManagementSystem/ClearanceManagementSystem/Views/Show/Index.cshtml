@@ -1,0 +1,16 @@
+﻿
+@{
+
+    var listShow = new List<ClearanceManagementSystem.DTO.SHOW>();
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+}
+
+
+@foreach (var item in listShow)
+{
+    <h1>@item.Name</h1>
+    <p>@item.Note</p>
+}
+<h2>Index</h2>
+

@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+  <!--<title>@ViewBag.Title</title>-->  
+    <link href="~/Style/style.css" rel="stylesheet" />
+    <link href="~/Content/font.css" rel="stylesheet" />
+    <link href="~/Style/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/style.css" rel="stylesheet" />
+
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#navbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="~/Home" class="navbar-brand">
+                    <img src="~/images/logo.png" class="logo-size" />
+                </a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="~/Home/Index">
+                            <i class="glyphicon glyphicon-home"></i>
+                            الرئيسية
+                        </a>
+                    </li>
+
+
+
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-eye-open "></i>
+                            حول التطبيق
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#">
+                            <i class="glyphicon glyphicon-info-sign"></i>
+                            معلومات الجامعة
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Login/Login">
+                            <i class="glyphicon glyphicon-info-sign"></i>
+                            عرض طلبات المكاتب
+                        </a>
+                    </li>
+
+
+                </ul>
+            </div>
+
+        </div>
+    </nav>
+
+
+    @RenderBody()
+
+
+    <!--Footer-->
+    <footer class="navbar navbar-fixed-bottom myfooter">
+
+        <div class="subfooter">
+            <span>جميع الحقوق محفوظة لجامعة الريان</span>
+        </div>
+    </footer>
+
+    <script src="~/Scripts/jquery.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+
+</body>
+</html>

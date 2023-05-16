@@ -1,0 +1,53 @@
+﻿@using ClearanceManagementSystem.Controllers
+@model List<UserShowController.UserShowData>
+
+@using ClearanceManagementSystem.Models
+@{
+    ViewBag.Title = "StudentShow";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+    var _cms = new CMS();
+}
+
+<h2>StudentShow</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            <h1>
+                Student Number
+            </h1>
+
+        </th>
+        <th>
+            <h1>
+                Student Name
+            </h1>
+        </th>
+        <th>
+            <h1>
+                Collage
+            </h1>
+        </th>
+
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.STUNU)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.STUNA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.COLLEGE)
+            </td>
+        </tr>
+    }
+
+</table>

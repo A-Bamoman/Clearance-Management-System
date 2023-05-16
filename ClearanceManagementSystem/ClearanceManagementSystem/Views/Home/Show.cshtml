@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ClearanceManagementSystem.Models.CMS> 
+    @using ClearanceManagementSystem.Models
+
+@{
+    ViewBag.Title = "Show";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+    var db = new CMS();
+}
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Name_Office</th>
+            <th>Notes</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var CMS in Model)
+        {
+            <tr>
+                <td></td>
+                <td></td>
+                <td><input type="checkbox" /></td>
+            </tr>
+        }
+    </tbody>
+</table>
+

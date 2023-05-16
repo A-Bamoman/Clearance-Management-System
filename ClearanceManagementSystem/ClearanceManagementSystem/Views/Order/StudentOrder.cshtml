@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "StudentOrder";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <h2 style="color:red;text-align:center">@ViewBag.Message</h2>
+}
+
+ <body>
+    <!-- form section start -->
+    <section class="w3l-hotair-form">
+        <h1>ارسال طلب اخلاء طرف</h1>
+        <div class="container">
+            <br />
+            <!-- /form -->
+            <!--content-wthree-->
+            <div class="workinghny-form-grid">
+                <div class="main-hotair">
+                    <div class="content-wthree">
+                        <h2>بيانات الطالب</h2>
+                        <form action="ShowOrder" method="post">
+                            <input type="text" class="text" name="Student_Name" placeholder="اسم الطالب" required="" autofocus>
+                            <input type="number" class="text" name="Student_Number" placeholder="رقم القيد" required="" autofocus>
+                            <input list="lis" class="text" name="College" placeholder="الكليه" required="" autofocus>
+                            <datalist id="lis">
+                                <option value="تقنية معلومات">
+                                <option value="الاداب">
+                                <option value="الادارة والمحاسبه">
+                                <option value="الشريعة">
+                            </datalist>
+                            <button class="btn" type="submit">تقديم الطلب</button>
+                        </form>
+                    </div>
+                    <div class="w3l_form align-self">
+                        <div class="left_grid_info">
+                            <img src="~/images/1.png" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- //form -->
+        </div>
+
+    </section>
+    <!-- //form section start -->
+    </body>

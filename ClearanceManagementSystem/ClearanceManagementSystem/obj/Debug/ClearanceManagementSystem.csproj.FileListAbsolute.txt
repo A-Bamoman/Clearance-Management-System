@@ -1,0 +1,74 @@
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\csc.exe
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\vbc.exe
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\VBCSCompiler.exe
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\ClearanceManagementSystem.dll.config
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\ClearanceManagementSystem.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\ClearanceManagementSystem.pdb
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Helpers.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Mvc.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Razor.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.Deployment.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.Razor.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Razor.xml
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.xml
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.Deployment.xml
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.Razor.xml
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Helpers.xml
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Mvc.xml
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\obj\Debug\ClearanceManagementSystem.csprojResolveAssemblyReference.cache
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\obj\Debug\ClearanceManagementSystem.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\obj\Debug\ClearanceManagementSystem.pdb
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\EntityFramework.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\EntityFramework.xml
+E:\Abdullah\Therd Level\part tow\MVC Lab\ClearanceManagementSystem\ClearanceManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\csc.exe
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\vbc.exe
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\VBCSCompiler.exe
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\ClearanceManagementSystem.dll.config
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\ClearanceManagementSystem.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\ClearanceManagementSystem.pdb
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\EntityFramework.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Helpers.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Mvc.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Razor.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.Deployment.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.Razor.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\EntityFramework.xml
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Razor.xml
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.xml
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.Deployment.xml
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Webpages.Razor.xml
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Helpers.xml
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\bin\System.Web.Mvc.xml
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\obj\Debug\ClearanceManagementSystem.csprojResolveAssemblyReference.cache
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\obj\Debug\ClearanceManagementSystem.dll
+E:\Abdullah\Clearance Management System\ClearanceManagementSystem\ClearanceManagementSystem\obj\Debug\ClearanceManagementSystem.pdb

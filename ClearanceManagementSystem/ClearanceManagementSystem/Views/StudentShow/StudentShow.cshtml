@@ -1,0 +1,54 @@
+﻿@using ClearanceManagementSystem.Controllers
+@model List<StudentShowController.StudentShowData>
+
+@using ClearanceManagementSystem.Models
+@{
+    ViewBag.Title = "StudentShow";
+    Layout = "~/Views/_LayoutPage1.cshtml";
+    var _cms = new CMS();
+}
+
+<h2 style="text-align:center;padding-top:40px;padding-bottom:30px">عرض حالة الطلب</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            <h3>
+                المكتب
+            </h3>  
+             
+        </th>
+        <th>
+            <h3>
+                الملاحظات
+            </h3>     
+        </th>
+        <th>
+            <h3>
+               الحالة
+            </h3>    
+        </th>
+        
+       
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>          
+            @Html.DisplayFor(modelItem => item.Dept )
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Notes )
+        </td>
+        <td>
+            @*<input type="checkbox" @(item.Done ? "checked" : "") />*@
+            @*<input type="checkbox" @(item.Done) />*@
+            @Html.DisplayFor(modelItem => item.Done)
+
+
+          @*@Html.CheckBox(modelItem => item.Done = 0)*@
+        </td>
+    </tr>
+}
+
+</table>
